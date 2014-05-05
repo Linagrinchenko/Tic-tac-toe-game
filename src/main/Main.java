@@ -1,7 +1,7 @@
 package main;
 
 /**
- * Created by Xotabu4 on 05.05.14.
+ * Xotabu4 on 05.05.14.
  * <p/>
  * Main app class.
  * Contains basic launch logic, and console output.
