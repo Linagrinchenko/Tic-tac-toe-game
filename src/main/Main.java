@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Welcome to Tic-tac-toe GAME!!");
         System.out.println("In this game you should place X or O 3 at row to win.");
         System.out.println("Creating game field...");
-
+//I try to contribute
         int[] anArray = {0, 0, 0,
                 0, 0, 0,
                 0, 0, 0};
